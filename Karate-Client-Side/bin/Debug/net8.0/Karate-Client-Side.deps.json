@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Karate-Client-Side/1.0.0": {
+        "runtime": {
+          "Karate-Client-Side.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Karate-Client-Side/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

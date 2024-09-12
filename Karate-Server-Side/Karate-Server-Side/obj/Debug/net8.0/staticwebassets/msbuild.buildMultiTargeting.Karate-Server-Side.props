@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Karate-Server-Side.props" />
+</Project>
