@@ -6,6 +6,6 @@
 
 ### The Client side is For Call API From Server Side .
 
-### The Project short and it is part of Karate_Management_Syetem.
+### The Project is short and it is part of Karate_Management_Syetem.
 
 ### I Implemented on Person Class for practic just
